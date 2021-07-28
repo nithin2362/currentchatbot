@@ -1,2 +1,2 @@
-# currentchatbot
-Currently updated chatbot
+# weatherapp
+Updated weather app
